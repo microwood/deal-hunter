@@ -1,3 +1,5 @@
+use deal_hunter::launch;
+
 fn main() {
-    println!("Hello, world!");
+    launch();
 }
